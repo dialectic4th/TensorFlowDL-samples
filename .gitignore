@@ -5,3 +5,4 @@ __pycache__/
 *.gz
 events.out*
 !.gitkeep
+.ipynb_checkpoints
